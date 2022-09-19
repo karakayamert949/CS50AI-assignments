@@ -1,0 +1,8 @@
+More sophisticated question answering systems might employ
+other strategies (analyzing the type of question word used,
+looking for synonyms of query words, lemmatizing to handle
+different forms of the same word, etc.) but we’ll leave those sorts of improvements
+as exercises for you to work on if you’d like to after you’ve completed this project!
+
+internetten veri çek
+seslendirme ekle
